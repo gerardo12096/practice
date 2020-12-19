@@ -10,5 +10,7 @@ int main()
     cout << "feature branch again" << endl;
     cout << "merging conflict" << endl;
 
+    cout << "main conflict feature" << endl;
+
     return 0;
 }
