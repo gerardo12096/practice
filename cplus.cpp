@@ -8,6 +8,7 @@ int main()
     cout << "Hello there again" << endl;
     cout << "This is from branch feature again" << endl;
     cout << "feature branch again" << endl;
+    cout << "merging conflict" << endl;
 
     return 0;
 }
